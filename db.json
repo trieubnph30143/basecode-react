@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "san pham neww",
+      "image": "https://picsum.photos/300/300",
+      "price": "219997",
+
+      "description": "mô tả sản phẩm"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "duyetoke@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
